@@ -1,3 +1,5 @@
+# metinsel veriyi tutan kavramlardir 
+
 name='Pasha'
 isim='ENES'
 

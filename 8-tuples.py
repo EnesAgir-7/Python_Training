@@ -9,3 +9,13 @@ print(type(three_numbers))
 
 # listenin icerisindeki elemenlerin turune bakila bilinir #! bool mu string mi int oldugu
 print(type(number[0]))
+
+#^ ----------------------------------------------
+
+kume = {"yellow", "blue", "green", "red", "black"}
+
+for renk in kume:
+    #! burada her seferinde baska bir siralama gelir bunun nedeni sets lerin sirassi onemli degildir
+    print(renk)
+
+
